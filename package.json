@@ -1,0 +1,30 @@
+{
+   "combine": false,
+   "indexFiles": [
+      {
+         "output": "framework.css",
+         "files": [
+            "css/yui-3-3-0-reset-grids-fonts.css",
+            "css/main.css"
+         ]
+      },
+      {
+         "output": "framework.js",
+         "files": [
+            "js/jquery-3.3.1.min.js",
+            "js/constants.js",
+            "js/system.js",
+            "js/utils.js",
+            "js/main.js"
+         ]
+      }
+   ],
+
+   "loadModules" : [
+      {"path": "js/classes/site-picker"},
+      {"path": "js/classes/slate-picker"},
+      {"path": "js/classes/game-picker"},
+      {"path": "js/addons/jwindow"}
+   ]
+}
+

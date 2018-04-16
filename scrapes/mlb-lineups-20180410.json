@@ -1,0 +1,576 @@
+[
+    {
+        "ppd": false,
+        "homeTeamAbbr": "CWS",
+        "awayTeamAbbr": "TB",
+        "gameTime": {
+            "date": "2018-04-10 14:10:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523383800,
+        "awayTeamLineup": [
+            {
+                "LF": "Denard Span"
+            },
+            {
+                "2B": "Joey Wendle"
+            },
+            {
+                "CF": "Carlos Gomez"
+            },
+            {
+                "1B": "C.J. Cron"
+            },
+            {
+                "3B": "Matt Duffy"
+            },
+            {
+                "RF": "Mallex Smith"
+            },
+            {
+                "C": "Wilson Ramos"
+            },
+            {
+                "SS": "A. Hechavarria"
+            },
+            {
+                "DH": "D. Robertson"
+            },
+            {
+                "P": "Blake Snell"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "2B": "Yoan Moncada"
+            },
+            {
+                "RF": "Avisail Garcia"
+            },
+            {
+                "1B": "Jose Abreu"
+            },
+            {
+                "DH": "Matt Davidson"
+            },
+            {
+                "C": "W. Castillo"
+            },
+            {
+                "LF": "Nicky Delmonico"
+            },
+            {
+                "SS": "Tim Anderson"
+            },
+            {
+                "3B": "Tyler Saladino"
+            },
+            {
+                "CF": "Adam Engel"
+            },
+            {
+                "P": "Carson Fulmer"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "CHC",
+        "awayTeamAbbr": "PIT",
+        "gameTime": {
+            "date": "2018-04-10 14:20:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523384400,
+        "awayTeamLineup": [
+            {
+                "2B": "Josh Harrison"
+            },
+            {
+                "RF": "Gregory Polanco"
+            },
+            {
+                "CF": "Starling Marte"
+            },
+            {
+                "1B": "Josh Bell"
+            },
+            {
+                "LF": "Corey Dickerson"
+            },
+            {
+                "C": "F. Cervelli"
+            },
+            {
+                "3B": "Colin Moran"
+            },
+            {
+                "SS": "Jordy Mercer"
+            },
+            {
+                "P": "Ivan Nova"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "CF": "Ian Happ"
+            },
+            {
+                "3B": "Kris Bryant"
+            },
+            {
+                "1B": "Ben Zobrist"
+            },
+            {
+                "C": "W. Contreras"
+            },
+            {
+                "LF": "Kyle Schwarber"
+            },
+            {
+                "SS": "Addison Russell"
+            },
+            {
+                "RF": "Jason Heyward"
+            },
+            {
+                "2B": "Javier Baez"
+            },
+            {
+                "P": "Tyler Chatwood"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "CLE",
+        "awayTeamAbbr": "DET",
+        "gameTime": {
+            "date": "2018-04-10 18:10:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523398200,
+        "awayTeamLineup": [
+            {
+                "CF": "Leonys Martin"
+            },
+            {
+                "3B": "J. Candelario"
+            },
+            {
+                "1B": "Miguel Cabrera"
+            },
+            {
+                "RF": "N. Castellanos"
+            },
+            {
+                "DH": "Victor Martinez"
+            },
+            {
+                "SS": "Niko Goodrum"
+            },
+            {
+                "C": "James McCann"
+            },
+            {
+                "LF": "Victor Reyes"
+            },
+            {
+                "2B": "Dixon Machado"
+            },
+            {
+                "P": "Matt Boyd"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "SS": "F. Lindor"
+            },
+            {
+                "2B": "Jason Kipnis"
+            },
+            {
+                "3B": "Jose Ramirez"
+            },
+            {
+                "DH": "E. Encarnacion"
+            },
+            {
+                "LF": "M. Brantley"
+            },
+            {
+                "RF": "Brandon Guyer"
+            },
+            {
+                "1B": "Yonder Alonso"
+            },
+            {
+                "C": "Roberto Perez"
+            },
+            {
+                "CF": "Rajai Davis"
+            },
+            {
+                "P": "Josh Tomlin"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "WAS",
+        "awayTeamAbbr": "ATL",
+        "gameTime": {
+            "date": "2018-04-10 19:05:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523401500,
+        "awayTeamLineup": [
+            {
+                "P": "Mike Foltynewicz"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "LF": "Adam Eaton"
+            },
+            {
+                "SS": "Trea Turner"
+            },
+            {
+                "RF": "Bryce Harper"
+            },
+            {
+                "3B": "Anthony Rendon"
+            },
+            {
+                "1B": "Ryan Zimmerman"
+            },
+            {
+                "CF": "Michael Taylor"
+            },
+            {
+                "2B": "Wilmer Difo"
+            },
+            {
+                "C": "Pedro Severino"
+            },
+            {
+                "P": "Stephen Strasburg"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "BAL",
+        "awayTeamAbbr": "TOR",
+        "gameTime": {
+            "date": "2018-04-10 19:05:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523401500,
+        "awayTeamLineup": [
+            {
+                "P": "Aaron Sanchez"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "LF": "Trey Mancini"
+            },
+            {
+                "SS": "Manny Machado"
+            },
+            {
+                "2B": "Jonathan Schoop"
+            },
+            {
+                "CF": "Adam Jones"
+            },
+            {
+                "DH": "Pedro Alvarez"
+            },
+            {
+                "1B": "Chris Davis"
+            },
+            {
+                "3B": "Tim Beckham"
+            },
+            {
+                "RF": "A. Santander"
+            },
+            {
+                "C": "Chance Sisco"
+            },
+            {
+                "P": "Andrew Cashner"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "PHI",
+        "awayTeamAbbr": "CIN",
+        "gameTime": {
+            "date": "2018-04-10 19:05:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523401500,
+        "awayTeamLineup": [
+            {
+                "P": "Homer Bailey"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "P": "Aaron Nola"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "BOS",
+        "awayTeamAbbr": "NYY",
+        "gameTime": {
+            "date": "2018-04-10 19:10:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523401800,
+        "awayTeamLineup": [
+            {
+                "P": "Luis Severino"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "RF": "Mookie Betts"
+            },
+            {
+                "LF": "A. Benintendi"
+            },
+            {
+                "1B": "Hanley Ramirez"
+            },
+            {
+                "DH": "J.D. Martinez"
+            },
+            {
+                "3B": "Rafael Devers"
+            },
+            {
+                "2B": "Eduardo Nunez"
+            },
+            {
+                "CF": "Jackie Bradley"
+            },
+            {
+                "C": "C. Vazquez"
+            },
+            {
+                "SS": "Brock Holt"
+            },
+            {
+                "P": "Chris Sale"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "MIA",
+        "awayTeamAbbr": "NYM",
+        "gameTime": {
+            "date": "2018-04-10 19:10:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523401800,
+        "awayTeamLineup": [
+            {
+                "P": "Jacob deGrom"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "LF": "Derek Dietrich"
+            },
+            {
+                "SS": "Miguel Rojas"
+            },
+            {
+                "2B": "Starlin Castro"
+            },
+            {
+                "1B": "Justin Bour"
+            },
+            {
+                "3B": "Brian Anderson"
+            },
+            {
+                "CF": "Lewis Brinson"
+            },
+            {
+                "RF": "Braxton Lee"
+            },
+            {
+                "C": "Bryan Holaday"
+            },
+            {
+                "P": "Caleb Smith"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "TEX",
+        "awayTeamAbbr": "LAA",
+        "gameTime": {
+            "date": "2018-04-10 20:05:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523405100,
+        "awayTeamLineup": [
+            {
+                "P": "Tyler Skaggs"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "P": "Martin Perez"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "MIN",
+        "awayTeamAbbr": "HOU",
+        "gameTime": {
+            "date": "2018-04-10 20:10:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523405400,
+        "awayTeamLineup": [
+            {
+                "P": "Dallas Keuchel"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "P": "Jake Odorizzi"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "STL",
+        "awayTeamAbbr": "MIL",
+        "gameTime": {
+            "date": "2018-04-10 20:15:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523405700,
+        "awayTeamLineup": [
+            {
+                "P": "Brent Suter"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "P": "Carlos Martinez"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "KC",
+        "awayTeamAbbr": "SEA",
+        "gameTime": {
+            "date": "2018-04-10 20:15:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523405700,
+        "awayTeamLineup": [
+            {
+                "P": "Felix Hernandez"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "P": "Eric Skoglund"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "COL",
+        "awayTeamAbbr": "SD",
+        "gameTime": {
+            "date": "2018-04-10 20:40:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523407200,
+        "awayTeamLineup": [
+            {
+                "P": "Joey Lucchesi"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "P": "Tyler Anderson"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "LAD",
+        "awayTeamAbbr": "OAK",
+        "gameTime": {
+            "date": "2018-04-10 22:10:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523412600,
+        "awayTeamLineup": [
+            {
+                "P": "Sean Manaea"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "P": "Hyun-Jin Ryu"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "SF",
+        "awayTeamAbbr": "ARI",
+        "gameTime": {
+            "date": "2018-04-10 22:15:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523412900,
+        "awayTeamLineup": [
+            {
+                "P": "Patrick Corbin"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "P": "Tyler Beede"
+            }
+        ],
+        "scrapeTime": 1523387679
+    }
+]

@@ -1,0 +1,8 @@
+div.slate-picker-content {display: flex;/* background-color: #2d8e33; */justify-content: center;padding: 8px 0px 7px 0px;height: 50px;/* border: 1px outset #3aaf2e; */}
+
+div.slate-button {cursor: pointer;    display: flex;    justify-content: center;    padding: 5px;    min-width: 170px;    align-items: center; border-radius: 3px;}
+
+div.slate-button.selected {background-color: #ffffff4a;}
+
+div.slate-button.deselected .slate-title {}
+div.slate-title {color: white;    text-shadow: 1px 1px 1px black;    font: 20px monospace;}

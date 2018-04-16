@@ -1,0 +1,76 @@
+div.game-entry:not(:first-child) {}
+
+div.game-entry {
+    cursor: pointer;
+    display: flex;
+    margin: 2px;
+    background-color: #ffffff8c;
+    height: 150px;
+    padding:2px;
+    color: black;
+    text-shadow: 1px 1px 0px white;
+    width: 165px;
+    flex-direction: column;
+    }
+
+div.game-entry.selected {background-color: #d2d2d2;}
+
+div.game-picker-content {
+    font: 10px tahoma;
+    overflow: auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px 5% 0px 5%;
+}
+
+div.game-entry .bar1 {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+}
+
+
+div.game-entry .bar1 .status-time {margin-right: 2px;}
+
+div.game-entry .bar1 .matchup {
+   margin-left: 2px;
+}
+
+div.game-entry .lineup-holder {
+    flex-grow: 1;
+    display: flex;
+    margin-top: 5px;
+}
+
+div.game-entry .lineup-holder > div:first-child {
+    margin-right: 5px;
+}
+
+div.game-entry .lineup-holder > div {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    /* margin-right: 5px; */
+    flex-grow: 1;
+    max-width: 50%;
+}
+
+
+div.game-entry .lineup-entry  {display: flex;white-space: nowrap;}
+
+div.game-entry .lineup-entry .position {
+    min-width: 15px;
+    text-align: right;
+    margin-right: 5px;
+}
+div.game-entry .lineup-entry .position-player {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+div.game-entry .away-lineup .position {
+    text-align: center;
+}
+
+div.game-entry .home-lineup .lineup-entry {}

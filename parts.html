@@ -1,0 +1,87 @@
+<parts>
+<parts for="site-picker">
+   <part for="site-button">
+      <div class="site-button" data-js-events="click">
+         <img data-js-name="imageHolder">
+      </div>
+   </part>
+</parts>
+<parts for="slate-picker">
+   <part for="slate-button">
+      <div class="slate-button" data-js-events="click">
+         <div class="slate-title" data-js-name="divTitle"></div>
+      </div>
+   </part>
+</parts>
+<parts for="game-picker">
+
+   <part for="game-picker-content">
+      <div class="game-picker-holder" data-js-name="body"></div>
+   </part>
+
+
+   <part for="game-entry">
+      <div class="game-entry" data-js-name="body">
+         <div class="bar1">
+            <div class="matchup" data-js-name="divMatchup"></div>
+            <div class="status-time" data-js-name="divStatus"></div>
+         </div>
+         <div class="lineup-holder" data-js-name="divLineupHolder">
+            <div class="home-lineup" data-js-name="divHomeLineup"></div>
+            <div class="away-lineup" data-js-name="divAwayLineup"></div>
+         </div>
+      </div>
+   </part>
+
+   <part for="lineup-entry">
+      <div class="lineup-entry" data-js-name="divBody">
+         <div class="position" data-js-name="divPosition"></div>
+         <div class="position-player" data-js-name="divPlayer"></div>
+      </div>
+   </part>
+
+
+</parts>
+<parts for="window">
+   <div class="yui3-u flexcol jwindow">
+      <div class="titlebar flexnoshrink" data-js-name="divTitlebar">
+         <div class="yui3-u title-text" data-js-name="divTitle"></div>
+         <div class="yui3-u window-controls" data-js-name="divControls">
+            <div class="yui3-u btn-close" data-js-name="divBtnClose"><i class="fa fa-minus"></i></div>
+         </div>
+      </div>
+      <div class="body flexrow flexgrow" data-js-name="divBody"></div>
+      <div class="button-area" data-js-name="divButtonArea"></div>
+   </div>
+
+</parts>
+
+<parts for="window-button">
+   <div class="jbutton" data-js-events="click">
+      <div class="button-icon" data-js-name="divButtonIcon"></div>
+      <div class="button-text" data-js-name="divButtonText">&nbsp;</div>
+   </div>
+</parts>
+
+
+<parts for="tab-nav">
+   <part for="tab-control">
+      <div class="tab-control flexcol flexgrow">
+         <div class="tab-holder flexrow flexshrink" data-js-name="divTabHolder"></div>
+         <div class="content flexcol flexgrow" data-js-name="divContent"></div>
+      </div>
+   </part>
+
+   <part for="tab">
+      <div class="tab flexshrink" data-js-events="click" data-js-name="divTab">
+         <div class="title" data-js-name="divTitle"></div>
+      </div>
+
+      <div class="content flexcol flexgrow" data-js-name="divContent"></div>
+   </part>
+
+
+</parts>
+
+
+</parts>

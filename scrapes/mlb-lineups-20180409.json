@@ -1,0 +1,814 @@
+[
+    {
+        "ppd": false,
+        "homeTeamAbbr": "CWS",
+        "awayTeamAbbr": "TB",
+        "gameTime": {
+            "date": "2018-04-09 14:10:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523297400,
+        "awayTeamLineup": [
+            {
+                "LF": "Denard Span"
+            },
+            {
+                "2B": "Joey Wendle"
+            },
+            {
+                "CF": "Carlos Gomez"
+            },
+            {
+                "1B": "C.J. Cron"
+            },
+            {
+                "3B": "Matt Duffy"
+            },
+            {
+                "C": "Wilson Ramos"
+            },
+            {
+                "SS": "D. Robertson"
+            },
+            {
+                "RF": "Mallex Smith"
+            },
+            {
+                "DH": "Rob Refsnyder"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "2B": "Yoan Moncada"
+            },
+            {
+                "RF": "Avisail Garcia"
+            },
+            {
+                "1B": "Jose Abreu"
+            },
+            {
+                "LF": "Nicky Delmonico"
+            },
+            {
+                "3B": "Yolmer Sanchez"
+            },
+            {
+                "SS": "Tim Anderson"
+            },
+            {
+                "CF": "Leury Garcia"
+            },
+            {
+                "DH": "Tyler Saladino"
+            },
+            {
+                "C": "Omar Narvaez"
+            }
+        ]
+    },
+    {
+        "ppd": true,
+        "homeTeamAbbr": "CHC",
+        "awayTeamAbbr": "PIT",
+        "gameTime": {
+            "date": "2018-04-09 15:20:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523301600
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "CLE",
+        "awayTeamAbbr": "DET",
+        "gameTime": {
+            "date": "2018-04-09 18:10:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523311800,
+        "awayTeamLineup": [
+            {
+                "CF": "Leonys Martin"
+            },
+            {
+                "3B": "J. Candelario"
+            },
+            {
+                "1B": "Miguel Cabrera"
+            },
+            {
+                "RF": "N. Castellanos"
+            },
+            {
+                "DH": "Victor Martinez"
+            },
+            {
+                "LF": "Mikie Mahtook"
+            },
+            {
+                "C": "James McCann"
+            },
+            {
+                "SS": "Jose Iglesias"
+            },
+            {
+                "2B": "Dixon Machado"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "SS": "F. Lindor"
+            },
+            {
+                "DH": "Jason Kipnis"
+            },
+            {
+                "3B": "Jose Ramirez"
+            },
+            {
+                "1B": "E. Encarnacion"
+            },
+            {
+                "RF": "Brandon Guyer"
+            },
+            {
+                "LF": "Rajai Davis"
+            },
+            {
+                "C": "Yan Gomes"
+            },
+            {
+                "CF": "Bradley Zimmer"
+            },
+            {
+                "2B": "Erik Gonzalez"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "WAS",
+        "awayTeamAbbr": "ATL",
+        "gameTime": {
+            "date": "2018-04-09 19:05:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523315100,
+        "awayTeamLineup": [
+            {
+                "CF": "Ender Inciarte"
+            },
+            {
+                "2B": "Ozzie Albies"
+            },
+            {
+                "1B": "Freddie Freeman"
+            },
+            {
+                "RF": "Nick Markakis"
+            },
+            {
+                "C": "Kurt Suzuki"
+            },
+            {
+                "LF": "Preston Tucker"
+            },
+            {
+                "SS": "Dansby Swanson"
+            },
+            {
+                "3B": "Ryan Flaherty"
+            },
+            {
+                "P": "Julio Teheran"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "SS": "Trea Turner"
+            },
+            {
+                "3B": "Anthony Rendon"
+            },
+            {
+                "RF": "Bryce Harper"
+            },
+            {
+                "1B": "Ryan Zimmerman"
+            },
+            {
+                "2B": "Howie Kendrick"
+            },
+            {
+                "LF": "Brian Goodwin"
+            },
+            {
+                "CF": "Michael Taylor"
+            },
+            {
+                "C": "Pedro Severino"
+            },
+            {
+                "P": "Max Scherzer"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "BAL",
+        "awayTeamAbbr": "TOR",
+        "gameTime": {
+            "date": "2018-04-09 19:05:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523315100,
+        "awayTeamLineup": [
+            {
+                "LF": "C. Granderson"
+            },
+            {
+                "3B": "Josh Donaldson"
+            },
+            {
+                "DH": "Justin Smoak"
+            },
+            {
+                "RF": "Steve Pearce"
+            },
+            {
+                "1B": "Kendrys Morales"
+            },
+            {
+                "C": "Russell Martin"
+            },
+            {
+                "CF": "Kevin Pillar"
+            },
+            {
+                "2B": "Devon Travis"
+            },
+            {
+                "SS": "Aledmys Diaz"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "LF": "Trey Mancini"
+            },
+            {
+                "SS": "Manny Machado"
+            },
+            {
+                "2B": "Jonathan Schoop"
+            },
+            {
+                "CF": "Adam Jones"
+            },
+            {
+                "1B": "Chris Davis"
+            },
+            {
+                "DH": "Danny Valencia"
+            },
+            {
+                "3B": "Tim Beckham"
+            },
+            {
+                "RF": "A. Santander"
+            },
+            {
+                "C": "Caleb Joseph"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "STL",
+        "awayTeamAbbr": "MIL",
+        "gameTime": {
+            "date": "2018-04-09 19:05:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523315100,
+        "awayTeamLineup": [
+            {
+                "CF": "Lorenzo Cain"
+            },
+            {
+                "1B": "Eric Thames"
+            },
+            {
+                "LF": "Ryan Braun"
+            },
+            {
+                "3B": "Travis Shaw"
+            },
+            {
+                "RF": "Domingo Santana"
+            },
+            {
+                "2B": "Eric Sogard"
+            },
+            {
+                "C": "Manny Pina"
+            },
+            {
+                "SS": "Orlando Arcia"
+            },
+            {
+                "P": "Jhoulys Chacin"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "RF": "Dexter Fowler"
+            },
+            {
+                "CF": "Tommy Pham"
+            },
+            {
+                "3B": "Matt Carpenter"
+            },
+            {
+                "LF": "Marcell Ozuna"
+            },
+            {
+                "1B": "Jose Martinez"
+            },
+            {
+                "C": "Yadier Molina"
+            },
+            {
+                "SS": "Paul DeJong"
+            },
+            {
+                "2B": "Kolten Wong"
+            },
+            {
+                "P": "Miles Mikolas"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "PHI",
+        "awayTeamAbbr": "CIN",
+        "gameTime": {
+            "date": "2018-04-09 19:05:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523315100,
+        "awayTeamLineup": [
+            {
+                "2B": "Scooter Gennett"
+            },
+            {
+                "SS": "Jose Peraza"
+            },
+            {
+                "1B": "Joey Votto"
+            },
+            {
+                "LF": "Adam Duvall"
+            },
+            {
+                "C": "Tucker Barnhart"
+            },
+            {
+                "RF": "Phillip Ervin"
+            },
+            {
+                "3B": "C. Pennington"
+            },
+            {
+                "P": "Cody Reed"
+            },
+            {
+                "CF": "Billy Hamilton"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "2B": "Cesar Hernandez"
+            },
+            {
+                "1B": "Carlos Santana"
+            },
+            {
+                "CF": "Odubel Herrera"
+            },
+            {
+                "LF": "Rhys Hoskins"
+            },
+            {
+                "3B": "Maikel Franco"
+            },
+            {
+                "SS": "Scott Kingery"
+            },
+            {
+                "RF": "Aaron Altherr"
+            },
+            {
+                "C": "Jorge Alfaro"
+            },
+            {
+                "P": "Ben Lively"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "MIA",
+        "awayTeamAbbr": "NYM",
+        "gameTime": {
+            "date": "2018-04-09 19:10:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523315400,
+        "awayTeamLineup": [
+            {
+                "CF": "M. Conforto"
+            },
+            {
+                "LF": "Yoenis Cespedes"
+            },
+            {
+                "RF": "Jay Bruce"
+            },
+            {
+                "3B": "Todd Frazier"
+            },
+            {
+                "2B": "A. Cabrera"
+            },
+            {
+                "1B": "Adrian Gonzalez"
+            },
+            {
+                "C": "Kevin Plawecki"
+            },
+            {
+                "P": "N. Syndergaard"
+            },
+            {
+                "SS": "Amed Rosario"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "LF": "Derek Dietrich"
+            },
+            {
+                "SS": "Miguel Rojas"
+            },
+            {
+                "2B": "Starlin Castro"
+            },
+            {
+                "1B": "Justin Bour"
+            },
+            {
+                "3B": "Brian Anderson"
+            },
+            {
+                "CF": "Cameron Maybin"
+            },
+            {
+                "RF": "Braxton Lee"
+            },
+            {
+                "C": "Bryan Holaday"
+            },
+            {
+                "P": "Jose Urena"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "TEX",
+        "awayTeamAbbr": "LAA",
+        "gameTime": {
+            "date": "2018-04-09 20:05:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523318700,
+        "awayTeamLineup": [
+            {
+                "2B": "Zack Cozart"
+            },
+            {
+                "CF": "Mike Trout"
+            },
+            {
+                "DH": "Justin Upton"
+            },
+            {
+                "1B": "Albert Pujols"
+            },
+            {
+                "RF": "Kole Calhoun"
+            },
+            {
+                "SS": "A. Simmons"
+            },
+            {
+                "3B": "Luis Valbuena"
+            },
+            {
+                "C": "M. Maldonado"
+            },
+            {
+                "LF": "Ryan Schimpf"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "Soo": "Choo"
+            },
+            {
+                "2B": "Rougned Odor"
+            },
+            {
+                "SS": "Elvis Andrus"
+            },
+            {
+                "3B": "Adrian Beltre"
+            },
+            {
+                "RF": "Nomar Mazara"
+            },
+            {
+                "1B": "Joey Gallo"
+            },
+            {
+                "C": "R. Chirinos"
+            },
+            {
+                "CF": "Drew Robinson"
+            },
+            {
+                "LF": "Ryan Rua"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "MIN",
+        "awayTeamAbbr": "HOU",
+        "gameTime": {
+            "date": "2018-04-09 20:10:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523319000,
+        "awayTeamLineup": [
+            {
+                "DH": "George Springer"
+            },
+            {
+                "3B": "Alex Bregman"
+            },
+            {
+                "2B": "Jose Altuve"
+            },
+            {
+                "SS": "Carlos Correa"
+            },
+            {
+                "LF": "Marwin Gonzalez"
+            },
+            {
+                "C": "Brian McCann"
+            },
+            {
+                "1B": "J.D. Davis"
+            },
+            {
+                "CF": "Jake Marisnick"
+            },
+            {
+                "RF": "Derek Fisher"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "2B": "Brian Dozier"
+            },
+            {
+                "1B": "Joe Mauer"
+            },
+            {
+                "3B": "Miguel Sano"
+            },
+            {
+                "LF": "Eddie Rosario"
+            },
+            {
+                "DH": "Logan Morrison"
+            },
+            {
+                "SS": "Eduardo Escobar"
+            },
+            {
+                "RF": "Max Kepler"
+            },
+            {
+                "CF": "Byron Buxton"
+            },
+            {
+                "C": "Jason Castro"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "KC",
+        "awayTeamAbbr": "SEA",
+        "gameTime": {
+            "date": "2018-04-09 20:15:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523319300,
+        "awayTeamLineup": [
+            {
+                "CF": "Dee Gordon"
+            },
+            {
+                "SS": "Jean Segura"
+            },
+            {
+                "2B": "Robinson Cano"
+            },
+            {
+                "RF": "Mitch Haniger"
+            },
+            {
+                "3B": "Kyle Seager"
+            },
+            {
+                "1B": "D. Vogelbach"
+            },
+            {
+                "LF": "G. Heredia"
+            },
+            {
+                "DH": "Ichiro Suzuki"
+            },
+            {
+                "C": "David Freitas"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "LF": "Jon Jay"
+            },
+            {
+                "2B": "Whit Merrifield"
+            },
+            {
+                "3B": "Mike Moustakas"
+            },
+            {
+                "1B": "C. Cuthbert"
+            },
+            {
+                "RF": "Jorge Soler"
+            },
+            {
+                "CF": "Paulo Orlando"
+            },
+            {
+                "DH": "C. Gallagher"
+            },
+            {
+                "SS": "Alcides Escobar"
+            },
+            {
+                "C": "Drew Butera"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "COL",
+        "awayTeamAbbr": "SD",
+        "gameTime": {
+            "date": "2018-04-09 20:40:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523320800,
+        "awayTeamLineup": [
+            {
+                "2B": "Carlos Asuaje"
+            },
+            {
+                "3B": "Chase Headley"
+            },
+            {
+                "1B": "Eric Hosmer"
+            },
+            {
+                "RF": "Jose Pirela"
+            },
+            {
+                "LF": "C. Spangenberg"
+            },
+            {
+                "SS": "Freddy Galvis"
+            },
+            {
+                "C": "Austin Hedges"
+            },
+            {
+                "CF": "Manuel Margot"
+            },
+            {
+                "P": "Clayton Richard"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "CF": "C. Blackmon"
+            },
+            {
+                "2B": "DJ LeMahieu"
+            },
+            {
+                "3B": "Nolan Arenado"
+            },
+            {
+                "SS": "Trevor Story"
+            },
+            {
+                "LF": "Ian Desmond"
+            },
+            {
+                "C": "Chris Iannetta"
+            },
+            {
+                "RF": "Carlos Gonzalez"
+            },
+            {
+                "1B": "Pat Valaika"
+            },
+            {
+                "P": "Jon Gray"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "SF",
+        "awayTeamAbbr": "ARI",
+        "gameTime": {
+            "date": "2018-04-09 22:15:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1523326500,
+        "awayTeamLineup": [
+            {
+                "LF": "David Peralta"
+            },
+            {
+                "2B": "Ketel Marte"
+            },
+            {
+                "1B": "P. Goldschmidt"
+            },
+            {
+                "CF": "A.J. Pollock"
+            },
+            {
+                "RF": "Chris Owings"
+            },
+            {
+                "SS": "Nick Ahmed"
+            },
+            {
+                "3B": "Deven Marrero"
+            },
+            {
+                "C": "Jeff Mathis"
+            },
+            {
+                "P": "Zack Godley"
+            }
+        ],
+        "homeTeamLineup": [],
+        "scrapeTime": 1523312408
+    }
+]

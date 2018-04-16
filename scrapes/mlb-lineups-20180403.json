@@ -1,0 +1,241 @@
+[
+    {
+        "ppd": false,
+        "homeTeamAbbr": "DET",
+        "awayTeamAbbr": "KC",
+        "gameTime": {
+            "date": "2018-04-03 13:10:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1522775400,
+        "awayTeamLineup": [
+            {
+                "DH": "Jon Jay"
+            },
+            {
+                "2B": "Whit Merrifield"
+            },
+            {
+                "3B": "Mike Moustakas"
+            },
+            {
+                "1B": "C. Cuthbert"
+            },
+            {
+                "CF": "Paulo Orlando"
+            },
+            {
+                "RF": "Jorge Soler"
+            },
+            {
+                "LF": "Alex Gordon"
+            },
+            {
+                "SS": "Alcides Escobar"
+            },
+            {
+                "C": "C. Gallagher"
+            }
+        ],
+        "homeTeamLineup": [
+            {
+                "CF": "Leonys Martin"
+            },
+            {
+                "3B": "J. Candelario"
+            },
+            {
+                "1B": "Miguel Cabrera"
+            },
+            {
+                "RF": "N. Castellanos"
+            },
+            {
+                "DH": "Victor Martinez"
+            },
+            {
+                "C": "James McCann"
+            },
+            {
+                "LF": "Mikie Mahtook"
+            },
+            {
+                "SS": "Jose Iglesias"
+            },
+            {
+                "2B": "Dixon Machado"
+            }
+        ]
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "NYY",
+        "awayTeamAbbr": "TB",
+        "gameTime": {
+            "date": "2018-04-03 16:05:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1522785900,
+        "awayTeamLineup": [],
+        "homeTeamLineup": []
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "SF",
+        "awayTeamAbbr": "SEA",
+        "gameTime": {
+            "date": "2018-04-03 16:35:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1522787700,
+        "awayTeamLineup": [],
+        "homeTeamLineup": []
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "MIA",
+        "awayTeamAbbr": "BOS",
+        "gameTime": {
+            "date": "2018-04-03 18:10:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1522793400,
+        "awayTeamLineup": [],
+        "homeTeamLineup": []
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "CIN",
+        "awayTeamAbbr": "CHC",
+        "gameTime": {
+            "date": "2018-04-03 18:40:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1522795200,
+        "awayTeamLineup": [],
+        "homeTeamLineup": []
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "TOR",
+        "awayTeamAbbr": "CWS",
+        "gameTime": {
+            "date": "2018-04-03 19:07:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1522796820,
+        "awayTeamLineup": [],
+        "homeTeamLineup": []
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "NYM",
+        "awayTeamAbbr": "PHI",
+        "gameTime": {
+            "date": "2018-04-03 19:10:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1522797000,
+        "awayTeamLineup": [],
+        "homeTeamLineup": []
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "ATL",
+        "awayTeamAbbr": "WAS",
+        "gameTime": {
+            "date": "2018-04-03 19:35:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1522798500,
+        "awayTeamLineup": [],
+        "homeTeamLineup": []
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "MIL",
+        "awayTeamAbbr": "STL",
+        "gameTime": {
+            "date": "2018-04-03 19:40:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1522798800,
+        "awayTeamLineup": [],
+        "homeTeamLineup": []
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "HOU",
+        "awayTeamAbbr": "BAL",
+        "gameTime": {
+            "date": "2018-04-03 20:10:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1522800600,
+        "awayTeamLineup": [],
+        "homeTeamLineup": []
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "ARI",
+        "awayTeamAbbr": "LAD",
+        "gameTime": {
+            "date": "2018-04-03 21:40:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1522806000,
+        "awayTeamLineup": [],
+        "homeTeamLineup": []
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "OAK",
+        "awayTeamAbbr": "TEX",
+        "gameTime": {
+            "date": "2018-04-03 22:05:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1522807500,
+        "awayTeamLineup": [],
+        "homeTeamLineup": []
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "LAA",
+        "awayTeamAbbr": "CLE",
+        "gameTime": {
+            "date": "2018-04-03 22:07:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1522807620,
+        "awayTeamLineup": [],
+        "homeTeamLineup": []
+    },
+    {
+        "ppd": false,
+        "homeTeamAbbr": "SD",
+        "awayTeamAbbr": "COL",
+        "gameTime": {
+            "date": "2018-04-03 22:10:00.000000",
+            "timezone_type": 3,
+            "timezone": "America\/New_York"
+        },
+        "unixTime": 1522807800,
+        "awayTeamLineup": [],
+        "homeTeamLineup": [],
+        "scrapeTime": 1522766453
+    }
+]

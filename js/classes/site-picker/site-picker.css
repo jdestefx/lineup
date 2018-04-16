@@ -1,0 +1,11 @@
+div.site-picker-content {
+    display: flex;
+    /* background-color: #2d8e33; */
+    justify-content: center;
+    /* border: 1px outset #3aaf2e; */
+    }
+
+div.site-button {cursor:pointer;display: flex;justify-content: center;padding: 2px;min-width:170px;border-radius: 3px;}
+
+div.site-button.selected {background-color: #ffffff4a;}
+div.site-button.deselected {filter: grayscale(100%); opacity:0.5}
